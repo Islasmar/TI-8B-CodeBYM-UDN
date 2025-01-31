@@ -94,6 +94,36 @@ Desarrollar e implementar un sistema integral de gestión para el gimnasio que a
 
 ## Colaboradores
 ---
+## Colaboradores
+---
+
+<table align="center">
+  <tr>
+    <th>Integrantes</th>
+    <th>Contacto</th>
+    <th>Rol</th>
+    <th>Observaciones</th>
+  </tr>
+  <tr>
+    <td>Mariano Fajardo Islas</td>
+    <td>📧 marianoislasfajardo@gmail.com</td>
+    <td>Lider de equipo</td>
+    <td>Revisado y aprobado</td>
+  </tr>
+  <tr>
+    <td>Yulissa Ortega Cuevas</td>
+    <td>📧 [correo@example.com](mailto:correo@example.com)</td>
+    <td>Diseñadora de Fronted UI/UX</td>
+    <td>Aún no revisado</td>
+  </tr>
+  <tr>
+    <td>Berenice Ávila Reyes</td>
+    <td>📧 Bere0664@gmail.com</td>
+    <td>Desarrolladora de Backend</td>
+    <td>Aún no revisado</td>
+  </tr>
+</table>
+
 
 
 ## Lista de Tecnologías 
