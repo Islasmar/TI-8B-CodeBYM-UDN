@@ -100,7 +100,7 @@ Desarrollar e implementar un sistema integral de gestión para el gimnasio que a
 ---
 ## 🖌 Maquetado del sitio 
 ### 1. Figma  
-[Figma](https://www.figma.com/) es una herramienta de diseño y prototipado en la nube que permitirá definir la estructura visual del sistema. Facilitará la creación de interfaces responsivas y colaborativas, asegurando una experiencia de usuario óptima antes de la fase de desarrollo.  
+[Figma] es una herramienta de diseño y prototipado en la nube que permitirá definir la estructura visual del sistema. Facilitará la creación de interfaces responsivas y colaborativas, asegurando una experiencia de usuario óptima antes de la fase de desarrollo.  
 ## 🌐 Tecnologías de Desarrollo  
 
 ### **Frontend (Interfaz de usuario)**    
