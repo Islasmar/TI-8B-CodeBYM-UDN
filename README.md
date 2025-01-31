@@ -98,4 +98,22 @@ Desarrollar e implementar un sistema integral de gestión para el gimnasio que a
 
 ## Lista de Tecnologías 
 ---
+## 🖌 Maquetado del sitio 
+### 1. Figma  
+[Figma](https://www.figma.com/) es una herramienta de diseño y prototipado en la nube que permitirá definir la estructura visual del sistema. Facilitará la creación de interfaces responsivas y colaborativas, asegurando una experiencia de usuario óptima antes de la fase de desarrollo.  
+## 🌐 Tecnologías de Desarrollo  
+
+### **Frontend (Interfaz de usuario)**    
+### 1. Vue.js Framework 
+[Vue] es un framework progresivo de JavaScript fácil de integrar y con excelente rendimiento.    
+
+### **Backend (Lógica del servidor)**  
+### 1. Javascript
+[Javascript] es un lenguaje de programación de alto nivel, interpretado y orientado a objetos, ampliamente utilizado en el desarrollo web. Es esencial para la creación de aplicaciones dinámicas e interactivas, ya que permite manipular el contenido de una página en tiempo real sin necesidad de recargarla.
+
+### **Base de datos (Almacenamiento de información)**
+### 1. MySQL 
+[MySQL] Base de datos relacional ideal para almacenar inscripciones, pagos y asistencia.   
+### 2. MongoDB 
+[MongoDB] Base de datos NoSQL para mayor flexibilidad en los datos.  
 
