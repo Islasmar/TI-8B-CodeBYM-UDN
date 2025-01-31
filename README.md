@@ -108,19 +108,19 @@ Desarrollar e implementar un sistema integral de gestión para el gimnasio que a
     <td>Mariano Fajardo Islas</td>
     <td>📧 marianoislasfajardo@gmail.com</td>
     <td>Lider de equipo</td>
-    <td>Revisado y aprobado</td>
+    <td> ✔️ Revisado y aprobado</td>
   </tr>
   <tr>
     <td>Yulissa Ortega Cuevas</td>
-    <td>📧 [correo@example.com](mailto:correo@example.com)</td>
+    <td>📧 YuliOrtega22@gmail.com</td>
     <td>Diseñadora de Fronted UI/UX</td>
-    <td>Aún no revisado</td>
+    <td> ❌ Aún no revisado</td>
   </tr>
   <tr>
     <td>Berenice Ávila Reyes</td>
     <td>📧 Bere0664@gmail.com</td>
     <td>Desarrolladora de Backend</td>
-    <td>Aún no revisado</td>
+    <td> ❌ Aún no revisado</td>
   </tr>
 </table>
 
