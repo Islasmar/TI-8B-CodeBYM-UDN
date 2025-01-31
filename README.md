@@ -88,12 +88,20 @@ Desarrollar e implementar un sistema integral de gestión para el gimnasio que a
 
 ## Organigrama
 ---
+Este organigrama representa la estructura organizativa del equipo, mostrando de manera visual los roles.<br>
+Su objetivo principal es definir claramente las responsabilidades de cada miembro, asegurando una distribución eficiente de tareas y
+fomentando una mejor comunicación y coordinación.  
+
+<div align="center">
+  <img src="https://i.postimg.cc/XYyv3cX0/Organigrama.png" width="500"/>
+</div>
+
+
+    
 
 ## Diagrama de Gantt
 ---
 
-## Colaboradores
----
 ## Colaboradores
 ---
 
@@ -117,7 +125,7 @@ Desarrollar e implementar un sistema integral de gestión para el gimnasio que a
     <td> ❌ Aún no revisado</td>
   </tr>
   <tr>
-    <td>Berenice Ávila Reyes</td>
+    <td>Berenice Avila Reyes</td>
     <td>📧 Bere0664@gmail.com</td>
     <td>Desarrolladora de Backend</td>
     <td> ❌ Aún no revisado</td>
