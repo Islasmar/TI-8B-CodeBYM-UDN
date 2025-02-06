@@ -88,6 +88,16 @@ Desarrollar e implementar un sistema integral de gestión para el gimnasio que a
 
 ## Organigrama
 ---
+Este organigrama representa la estructura organizativa del equipo, mostrando de manera visual los roles.<br>
+Su objetivo principal es definir claramente las responsabilidades de cada miembro, asegurando una distribución eficiente de tareas y
+fomentando una mejor comunicación y coordinación.  
+
+<div align="center">
+  <img src="https://i.postimg.cc/XYyv3cX0/Organigrama.png" width="500"/>
+</div>
+
+
+    
 
 ## Diagrama de Gantt
 ---
@@ -95,7 +105,53 @@ Desarrollar e implementar un sistema integral de gestión para el gimnasio que a
 ## Colaboradores
 ---
 
+<table align="center">
+  <tr>
+    <th>Integrantes</th>
+    <th>Contacto</th>
+    <th>Rol</th>
+    <th>Observaciones</th>
+  </tr>
+  <tr>
+    <td>Mariano Fajardo Islas</td>
+    <td>📧 marianoislasfajardo@gmail.com</td>
+    <td>Lider de equipo</td>
+    <td> ✔️ Revisado y aprobado</td>
+  </tr>
+  <tr>
+    <td>Yulissa Ortega Cuevas</td>
+    <td>📧 YuliOrtega22@gmail.com</td>
+    <td>Diseñadora de Fronted UI/UX</td>
+    <td> ❌ Aún no revisado</td>
+  </tr>
+  <tr>
+    <td>Berenice Avila Reyes</td>
+    <td>📧 Bere0664@gmail.com</td>
+    <td>Desarrolladora de Backend</td>
+    <td> ❌ Aún no revisado</td>
+  </tr>
+</table>
+
+
 
 ## Lista de Tecnologías 
 ---
+## 🖌 Maquetado del sitio 
+### 1. Figma  
+[Figma] es una herramienta de diseño y prototipado en la nube que permitirá definir la estructura visual del sistema. Facilitará la creación de interfaces responsivas y colaborativas, asegurando una experiencia de usuario óptima antes de la fase de desarrollo.  
+## 🌐 Tecnologías de Desarrollo  
+
+### **Frontend (Interfaz de usuario)**    
+### 1. Vue.js Framework 
+[Vue] es un framework progresivo de JavaScript fácil de integrar y con excelente rendimiento.    
+
+### **Backend (Lógica del servidor)**  
+### 1. Javascript
+[Javascript] es un lenguaje de programación de alto nivel, interpretado y orientado a objetos, ampliamente utilizado en el desarrollo web. Es esencial para la creación de aplicaciones dinámicas e interactivas, ya que permite manipular el contenido de una página en tiempo real sin necesidad de recargarla.
+
+### **Base de datos (Almacenamiento de información)**
+### 1. MySQL 
+[MySQL] Base de datos relacional ideal para almacenar inscripciones, pagos y asistencia.   
+### 2. MongoDB 
+[MongoDB] Base de datos NoSQL para mayor flexibilidad en los datos.  
 
