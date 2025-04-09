@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.postimg.cc/d0XFvMfN/Imagen-de-Whats-App-2025-01-21-a-las-20-15-13-b426ade9.jpg" width="150"/>
+      <img src="/img/gymbulls.jpg"  width="150"/>
     </td>
     <td align="center">
       <img src="/img/gymBYM.webp" width="150"/>
