@@ -1,4 +1,4 @@
-# Base de Datos NoSQL NoSQL 
+# Base de Datos NoSQL 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
