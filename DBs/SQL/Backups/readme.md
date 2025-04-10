@@ -1,6 +1,6 @@
 # **📂 Backups de la Base de Datos**
 
-Bienvenido a la carpeta **Backups**. Aquí encontrarás los archivos de respaldo de la base de datos SQL del sistema de gimnasio. Estos respaldos son esenciales para recuperar tu información en caso de pérdida o corrupción de datos.
+Aquí encontrarás los archivos de respaldo de la base de datos SQL del sistema de gimnasio. Estos respaldos son esenciales para recuperar tu información en caso de pérdida o corrupción de datos.
 
 
 

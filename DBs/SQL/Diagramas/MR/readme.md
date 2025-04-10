@@ -8,6 +8,19 @@ El MR es la base teórica de sistemas de gestión de bases de datos como **MySQL
 
 ---
 
+## 🔄 **Principales Características**  
+- **Tablas (Relaciones)**: Las tablas almacenan los datos y definen las relaciones entre las entidades.
+- **Claves Primarias y Foráneas**: Definen las relaciones entre las tablas, asegurando la integridad de los datos.
+- **Minimización de Redundancia**: El MR está diseñado para evitar la duplicación innecesaria de datos.
+---
+
+## 📁 **Versiones del Modelo Relacional**  
+El Modelo Relacional (MR) está disponible en **dos versiones**:  
+-  🖥️  **Navicat** 
+-  💻  **MySQL** 
+
+-----
+
 ## 👥 Equipo de Desarrollo
 | Integrante | Contacto | Rol | Observaciones |
 |------------|--------|---|---|
