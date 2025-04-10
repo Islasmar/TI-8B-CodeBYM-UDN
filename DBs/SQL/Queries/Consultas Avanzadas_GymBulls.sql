@@ -1,4 +1,4 @@
-/* CONSULTAS AVANZADAS*/
+/* CONSULTAS AVANZADAS GYMBULLS*/
 -- Seleccionar la base
 USE gym;
 
