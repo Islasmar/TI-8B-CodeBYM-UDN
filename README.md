@@ -32,6 +32,7 @@ Este sistema contribuirá a mejorar la organización interna del gimnasio ya ofr
 - [Requerimientos](#Requerimientos)
 - [Organigrama](#Organigrama)
 - [Diagrama de Gantt](#Diagrama-de-Gantt)
+- [Estructura de desglose del trabajo (WBS)](#Diagrama-de-Gantt)
 - [Colaboradores](#Colaboradores)
 - [Lista de Tecnologías](#Lista-de-Tecnologías)
 
@@ -101,6 +102,16 @@ fomentando una mejor comunicación y coordinación.
 
 ## Diagrama de Gantt
 ---
+
+<p align="center">
+  <img src="Diagrama de Gantt.png" alt="Diagrama de Gantt" width="500">
+</p>
+
+## Estructura de desglose del trabajo (WBS)
+---
+<p align="center">
+  <img src="WBS.png" alt="Diagrama de Gantt" width="500">
+</p>
 
 ## Colaboradores
 ---
