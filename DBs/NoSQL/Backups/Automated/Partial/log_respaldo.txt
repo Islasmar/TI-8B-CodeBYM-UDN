@@ -1,0 +1,8 @@
+==============================================
+Estado: Respaldo Parcial Finalizado
+Fecha de Inicio: 10/04/2025 22:13:43.13
+Fecha de Término: 10/04/2025 22:13:43.66
+Duración: 0 segundos
+Tamaño del Archivo: 0 bytes
+Ubicación del Archivo: C:\Respaldos\backup_parcial_2025-04-10_22-13.archive
+==============================================

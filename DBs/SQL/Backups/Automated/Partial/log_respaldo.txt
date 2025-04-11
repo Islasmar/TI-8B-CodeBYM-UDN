@@ -1,0 +1,8 @@
+==============================================
+Estado: Respaldo Parcial Finalizado
+Fecha de Inicio: 10/04/2025 14:58:00.71
+Fecha de Término: 10/04/2025 14:58:01.60
+Duración: 1 segundos
+Tamaño del Archivo: 792 bytes
+Ubicación del Archivo: C:\Respaldos\backup_parcial_2025-04-10_14-58.sql
+==============================================
