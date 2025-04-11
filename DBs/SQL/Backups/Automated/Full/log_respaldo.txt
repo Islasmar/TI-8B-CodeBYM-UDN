@@ -1,0 +1,8 @@
+==============================================
+Estado: Respaldo Completo Finalizado
+Fecha de Inicio: 10/04/2025 14:40:34.09
+Fecha de Término: 10/04/2025 14:40:38.05
+Duración: 4 segundos
+Tamaño del Archivo: 110972 bytes
+Ubicación del Archivo: C:\Respaldos\backup_completo_2025-04-10_14-40.sql
+==============================================
